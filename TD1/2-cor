@@ -1,0 +1,17 @@
+01)   int
+02)   float
+03)   int*int
+04)   int
+05)   bool
+06)   unit
+07)   'a list
+08)   int list
+09)   (int*bool) list
+10)   Error
+11)   int
+12)   Error
+13)   float
+14)   Error
+15)   char
+16)   string
+17)   bool

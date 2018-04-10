@@ -1,0 +1,4 @@
+01)   1
+02)   1,true
+03)   fun x -> x=1
+04)   fun (x,y) -> string_of_int (x+y)
