@@ -1,0 +1,12 @@
+void foo(int x) {
+  int y = 4;
+  int z = 5;
+
+  print x;
+  print y;
+  print z;
+}
+
+void main() {
+  foo(3);
+}
